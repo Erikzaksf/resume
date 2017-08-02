@@ -1,0 +1,13 @@
+.top {
+  font-style: normal;
+  color: green;
+  width: 80%;
+}
+
+.education {
+  text-align: center;
+  color: purple;
+}
+#dots {
+  list-style-type: none;
+}
