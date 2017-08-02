@@ -11,3 +11,7 @@
 #dots {
   list-style-type: none;
 }
+
+.special {
+  color: red;
+}
